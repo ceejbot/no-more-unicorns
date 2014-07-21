@@ -134,3 +134,66 @@ You can learn it. Of course you can do that-- write a file system, write a mobil
 
 
 Summarize, wrap up, end on a high note.
+
+
+
+---
+
+Slides I want to hold onto:
+
+
+
+---
+
+# Priming.
+
+^ Touch on the research that says that reminding people of bad stereotypes about their group makes them perform worse: expectations influence behavior. Priming is a real thing.
+
+---
+
+This means that if you talk to me about writing software, I'm going to give you relentlessly positive messages.
+
+---
+
+# STEM degrees
+
+Not all STEM fields are alike:
+
+* 43.1% of degrees in math & statistics go to women
+* 18.2% in computer sciences
+
+Source: National Girls Collaborative Project
+http://www.ngcproject.org/statistics
+
+^ The percentage number is now tracking engineering as a whole & not math, as it did in my day. Math numbers are up!
+
+
+---
+
+![original, left](assets/percent-bachelors-degrees-women-usa.png)
+
+Source: @randal_olson
+http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/
+
+---
+
+![original, left](assets/me_on_degree_chart.png)
+
+# Wait.
+# What?
+# WAT.
+
+It got worse instead of better since my day.
+A lot worse.
+
+^ Want to be around more women & be even better prepared for writing software? Get a degree in math, not CS. Seriously. Math is the secret weapon of great programmers.
+
+---
+
+* Degrees in math are holding steady.
+* Math is about 1% of total degrees awarded
+* CS is about 4%
+
+
+Source:
+http://fivethirtyeight.blogs.nytimes.com/2013/06/25/as-more-attend-college-majors-become-more-career-focused/

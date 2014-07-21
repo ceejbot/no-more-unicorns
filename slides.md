@@ -34,11 +34,15 @@
 
 # [fit] Yay. I'm a unicorn.
 
+^ I'm a middle-aged woman who is a software engineer who contributes to open-source projects. Wow, that image doesn't fit me. Let's try this.
+
 ---
 
 ![left](assets/grumpy-cat-unicorn.jpg)
 
 # [fit] More like this.
+
+^ That's more like it. Frankly, I don't like being a unicorn. Let me tell you a little story about how much I don't like it.
 
 ---
 
@@ -58,13 +62,13 @@ Brave man.
 # [fit] should recruit
 # [fit] women.
 
-^ So I went on a mini-rant about how if you wanted to see women in open source, you had to stop wringing your hands about it.
+^ So I went on a mini-rant about how if you wanted to see women in open source, you had to stop wringing your hands about it. They aren't volunteering themselves and you probably aren't going to fix the social reasons why they aren't. If node wants women involved, it's going to have to recruit them. The leadership, the Node Core team, is going to have to recruit minorities. Put up or shut up.
 
 ---
 
 ![original](assets/can-o-crickets.jpg)
 
-^ Nothing happened. After that panel I did some thinking. At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could.
+^ Nothing happened. After that panel I did some thinking about women in node, women in software, women around me. I decided I was going to have to put up or shut up myself.
 
 ---
 
@@ -82,101 +86,120 @@ Brave man.
 
 ---
 
-# [fit] Don't do this.
+# [fit] "Girls don't program computers!"
 
+^ Let's try out stubborn & oblivious, shall we?
+
+---
+
+## [fit] Stubborn:
+
+### [fit] Screw you; I'm going to do what I want.
+
+---
+
+## [fit] Oblivious:
+
+## [fit] Sorry didn't notice.
+## [fit] Too busy writing this module.
+
+^ See? Totally awesome! End result is I write software!
+
+---
+
+# [fit] Not actually a good idea.
+
+## [fit] Not everybody wants to be
+## [fit] that thick-skinned.
+
+^ In fact, I'll go one step further.
+
+---
+
+# [fit] People shouldn't
+# [fit] have to be that
+# [fit] thick-skinned.
+
+^ Let's try some better adjectives. Ready?
 
 ---
 
 # [fit] Determined
 # [fit] & empathetic.
 
-^ Here are some better adjectives.
+^ Aaaah. Lots better, huh? Much more positive. Let's look at how that plays out.
 
 ---
 
-oblivious reaction: what guy trying to drive me off? I didn't even notice.
-stubborn reaction: screw you; I'm going to do what I want
-
-determined reaction: screw you
-empathetic reaction: who else has that guy driven off? I'll see if I can do something to help them.
+# [fit] Girls don't program computers!
 
 ---
 
+## [fit] Determined:
+
+## [fit] I'm going to do what I want.
+
+^ Subtle change there. Do you see it?
 
 ---
 
-# Priming.
+## [fit] Empathetic:
 
-^ Touch on the research that says that reminding people of bad stereotypes about their group makes them perform worse: expectations influence behavior. Priming is a real thing.
+## [fit] Who else has that guy
+## [fit] driven off?
 
----
-
-This means that if you talk to me about writing software, I'm going to give you relentlessly positive messages.
-
----
-
-# STEM degrees
-
-Not all STEM fields are alike:
-
-* 43.1% of degrees in math & statistics go to women
-* 18.2% in computer sciences
-
-Source: National Girls Collaborative Project
-http://www.ngcproject.org/statistics
-
-^ The percentage number is now tracking engineering as a whole & not math, as it did in my day. Math numbers are up!
-
+^ That guy has probably made somebody else's life miserable. I'll see if I can do something to help them.
 
 ---
 
-![original, left](assets/percent-bachelors-degrees-women-usa.png)
+# [fit] my resolution:
+# [fit] 2014 is the year
+# [fit] I help other women.
 
-Source: @randal_olson
-http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/
-
----
-
-![original, left](assets/me_on_degree_chart.png)
-
-# Wait.
-# What?
-# WAT.
-
-It got worse instead of better since my day.
-A lot worse.
-
-^ Want to be around more women & be even better prepared for writing software? Get a degree in math, not CS. Seriously. Math is the secret weapon of great programmers.
+^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could.
 
 ---
 
-* Degrees in math are holding steady.
-* Math is about 1% of total degrees awarded
-* CS is about 4%
+# [fit] What about you?
 
-
-Source:
-http://fivethirtyeight.blogs.nytimes.com/2013/06/25/as-more-attend-college-majors-become-more-career-focused/
+^ That's me. That's my decision. What does this have to do with you? Yes you, oh guy programmer sitting in the audience. (I don't have to tell the women in the audience what this has to do with them. I already have their attention.) Painful truth time.
 
 ---
 
-# how you act
-# is what your
-# values are
+# [fit] how you act
+# [fit] is what your
+# [fit] values are
 
 ^ How you talk tells me nothing but what you think you should be, or how you think you should look to other people. How you act tells me what you want.
 
 ---
 
-![](assets/ifttt_team_photo_cropped.jpg)
+![left, filtered](assets/ifttt_team_photo_cropped.jpg)
 
-#
-### if your team looks like this
-### it's because you didn't try.
+## [fit] if your team looks like this
+## [fit] it's because you
+## [fit] didn't try.
+
+^ It doesn't matter what your values are. You didn't act on them.
+
+---
+
+# Turns out it's easier than you fear
 
 ---
 
 
+> [C]reating a conference with reasonable female representation is not actually a hard problem. --Jez Humble
+
+[How To Create A More Diverse Tech Conference](http://continuousdelivery.com/2013/09/how-we-got-40-female-speakers-at-flowcon/)
+
+---
+
+> There is a lot more work involved to get women to submit to a tech conference. However, the work pays off in spades because the submissions from women (for us) ranked significantly higher on average than men’s submissions.
+
+-- http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html
+
+---
 
 
 
