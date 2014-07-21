@@ -1,5 +1,3 @@
----
-
 # [fit] no more
 # [fit] unicorns
 
@@ -8,57 +6,175 @@
 ## [fit] devops at npmjs.com
 ## [fit] @ceejbot
 
-^ My first conference speaking experience was here, last year!
-
-
----
-
-Pic of unicorn here.
+^ It's lovely to see you all again from up here. I've had a transformative experience since I saw you last. I'm here to talk about that. Transformative experiences are always fun, aren't they? Here's the source of mine.
 
 ---
 
-Grumpy cat with unicorn horn.
+![original, fit](assets/libuv_gendered_pronoun.png)
 
+^ If you were paying attention to node, you remember this fight. For anybody with any experience in technical writing, it's a no-brainer. Correct style demands not dragging gender in where it doesn't need to be. But for the node core team, it was a big deal. And for a legion of trolls on Hacker News, it was an outrage.
 
 ---
 
-^ Last year I was on a panel at Node Summit
-talking about the node community. I was a last-minute invitation, prompted because the organizer had received some pressure about having no women on his agenda.
+# [fit] So I looked up
+# [fit] from what I was doing.
+# [fit] I looked around.
+# [fit] I saw a lot of nothing.
 
-^ After that panel I did some thinking. At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could.
+---
 
+# [fit] What didn't I see?
+# [fit] Women.
 
+^ No women on node core, of course. Not a lot of women in open source. Estimates are hard to come by here, but it falls even further behind the percentage in our industry to start with. And no wonder, with idiots like the ones trolling that thread.
+
+---
+
+![left, 150%](assets/fanpop-unicorn.jpg)
+
+# [fit] Yay. I'm a unicorn.
+
+---
+
+![left](assets/grumpy-cat-unicorn.jpg)
+
+# [fit] More like this.
+
+---
+
+![left, 125%](assets/node_summit.png)
+
+# Community panel at Node Summit 2014
+
+Late invitation because there were few women on the schedule.
+@dshaw gave me a mic.
+Brave man.
+
+^ Last year I was on a panel at Node Summit talking about the node community. I was a last-minute invitation, prompted because the organizer had received some pressure about having no women on his agenda.
+
+---
+
+# [fit] the Node.js project
+# [fit] should recruit
+# [fit] women.
+
+^ So I went on a mini-rant about how if you wanted to see women in open source, you had to stop wringing your hands about it.
+
+---
+
+![original](assets/can-o-crickets.jpg)
+
+^ Nothing happened. After that panel I did some thinking. At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could.
 
 ---
 
 # [fit] How did I become
 # [fit] a unicorn?
 
+^ First step: I asked myself how I'd done it.
+
 ---
 
 # [fit] stubborn &
 # [fit] oblivious
+
+^ I'm stubborn and oblivious. My friend Laura Lemay described her success as being due to these two awesome traits, and I think mine is also. They're awesome!
 
 ---
 
 # [fit] Don't do this.
 
 
-Here are some better adjectives:
+---
 
 # [fit] Determined
-# [fit] & optimistic
+# [fit] & empathetic.
 
-Touch on the research that says that reminding people of bad stereotypes about their group makes them perform worse: expectations influence behavior. Priming is a real thing.
+^ Here are some better adjectives.
 
-This means that if you talk to me about writing software, I'm going to give you relentlessly positive messages.
-
+---
 
 oblivious reaction: what guy trying to drive me off? I didn't even notice.
 stubborn reaction: screw you; I'm going to do what I want
 
 determined reaction: screw you
 empathetic reaction: who else has that guy driven off? I'll see if I can do something to help them.
+
+---
+
+
+---
+
+# Priming.
+
+^ Touch on the research that says that reminding people of bad stereotypes about their group makes them perform worse: expectations influence behavior. Priming is a real thing.
+
+---
+
+This means that if you talk to me about writing software, I'm going to give you relentlessly positive messages.
+
+---
+
+# STEM degrees
+
+Not all STEM fields are alike:
+
+* 43.1% of degrees in math & statistics go to women
+* 18.2% in computer sciences
+
+Source: National Girls Collaborative Project
+http://www.ngcproject.org/statistics
+
+^ The percentage number is now tracking engineering as a whole & not math, as it did in my day. Math numbers are up!
+
+
+---
+
+![original, left](assets/percent-bachelors-degrees-women-usa.png)
+
+Source: @randal_olson
+http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/
+
+---
+
+![original, left](assets/me_on_degree_chart.png)
+
+# Wait.
+# What?
+# WAT.
+
+It got worse instead of better since my day.
+A lot worse.
+
+^ Want to be around more women & be even better prepared for writing software? Get a degree in math, not CS. Seriously. Math is the secret weapon of great programmers.
+
+---
+
+* Degrees in math are holding steady.
+* Math is about 1% of total degrees awarded
+* CS is about 4%
+
+
+Source:
+http://fivethirtyeight.blogs.nytimes.com/2013/06/25/as-more-attend-college-majors-become-more-career-focused/
+
+---
+
+# how you act
+# is what your
+# values are
+
+^ How you talk tells me nothing but what you think you should be, or how you think you should look to other people. How you act tells me what you want.
+
+---
+
+![](assets/ifttt_team_photo_cropped.jpg)
+
+#
+### if your team looks like this
+### it's because you didn't try.
+
+---
 
 
 
