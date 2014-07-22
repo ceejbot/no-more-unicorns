@@ -207,3 +207,22 @@ http://fivethirtyeight.blogs.nytimes.com/2013/06/25/as-more-attend-college-major
 ---
 
 http://bit.ly/1zYY2SB
+
+---
+
+# It's easier than you fear.
+
+
+> [C]reating a conference with reasonable female representation is not actually a hard problem. --Jez Humble
+
+[How To Create A More Diverse Tech Conference](http://continuousdelivery.com/2013/09/how-we-got-40-female-speakers-at-flowcon/)
+
+---
+
+> There is a lot more work involved to get women to submit to a tech conference. However, the work pays off in spades because the submissions from women (for us) ranked significantly higher on average than men’s submissions.
+
+[Beating the Odds — How We got 25% Women Speakers for JSConf EU 2012](http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html)
+
+^ Still need help?
+
+---
