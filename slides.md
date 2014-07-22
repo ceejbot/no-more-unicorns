@@ -25,6 +25,8 @@
 # [fit] THIS IS IN MY HOUSE.
 # [fit] My community.
 
+^ My chosen community telling me it will go out of its way to exclude me, using the stupidest means possible.
+
 ---
 
 # [fit] So I looked up.
@@ -36,7 +38,7 @@
 # [fit] What didn't I see?
 # [fit] Women.
 
-^ No women on node core, of course. Not a lot of women in open source. Estimates are hard to come by here, but it falls even further behind the percentage in our industry to start with. And no wonder, with idiots like the ones trolling that thread.
+^ No women on node core, of course. 11% of open source developers are women.
 
 ---
 
@@ -45,7 +47,7 @@
 # the future!
 ## uh...
 
-^ Friends, I thought the future would be better than the past. We like to praise ourselves for inventing the future & being on the forefront of this & that. So why are we so regressive? Why is Google's engineering staff 17% women if it's so forward-thinking? It's worse than it was, though.
+^ Friends, I thought the future would be better than the past. We like to praise ourselves for inventing the future & being on the forefront of this & that. So why are we so regressive? Why is Google's engineering staff 17% women if it's so forward-thinking? (Career)
 
 ---
 
@@ -202,7 +204,7 @@ Brave man.
 
 # [fit] How can I tell?
 
-^ If you are a hiring manager, put your hand up.  I'm talking to you now.
+^ If you are a hiring manager, put your hand up.  I'm talking to you now. Why am I a unicorn?
 
 ---
 
@@ -216,8 +218,8 @@ Brave man.
 
 ---
 
-# [fit] RIP Mortimer Q Snerd
-# [fit] He only worked on
+# [fit] RIP <your name here>
+# [fit] You only worked on
 # [fit] easy problems
 
 ^ But it's hard! You tell me. I know! But nobody's going to give you credit for doing easy things.
@@ -274,7 +276,7 @@ Brave man.
 ## men over-state
 ## women under-state
 
-^ Remember that the candidate is *presenting themselves* as more junior than they are. The brash young guy who looks more senior probably *looks* that way but isn't-- culture has taught him to put himself forward. The women applying have been taught to understate their abilities. You can't fix that part of the culture overnight, but you *can* teach yourself to remember it when you're evaluating candidates.
+^ (Talk about the 2 cultures here.) You can't fix that part of the culture overnight, but you *can* teach yourself to remember it when you're evaluating candidates.
 
 ---
 
@@ -291,37 +293,13 @@ Brave man.
 ## [fit] This is the npm team.
 ## [fit] @izs acted on his values.
 
-^ My challenge paid off a couple months later. And guess what: he got a kick-ass team.
+^ My challenge paid off a couple months later. Isaac took a risk. And guess what: he got a kick-ass team.
 
 ---
 
 ![original](assets/space1999-jumpsuit-future.jpg)
 
-^ The future! now with 100% more jumpsuits
-
----
-
-# what my fellow women can do
-
-^ The hiring managers can stand down. Now I'm going to talk to my fellow women and women-identified friends in the audience. Wave at me please, so I can feel less unicorn-y. Hi! I just signed you up for extra work interviewing people. Sorry about that, but I think it'll pay off long-term. What I'm most worried about with you all is keeping you around.
-
----
-
-# 50% of you leave after about 15 years.
-
----
-
-![](assets/Grumpy_Cat.jpg)
-
-^ This makes me sad.
-
----
-
-# Be determined.
-# Keep on keeping on.
-# Do what you love.
-
-^ If that's something else, awesome. But I'm going to be damned if anybody drives you off from something you love.
+^ The future! now with 100% more jumpsuits. maybe not the future-- this isn't good enough. Node project itself is still
 
 ---
 

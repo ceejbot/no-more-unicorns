@@ -226,3 +226,27 @@ http://bit.ly/1zYY2SB
 ^ Still need help?
 
 ---
+
+---
+
+# what my fellow women can do
+
+^ The hiring managers can stand down. Now I'm going to talk to my fellow women and women-identified friends in the audience. Wave at me please, so I can feel less unicorn-y. Hi! I just signed you up for extra work interviewing people. Sorry about that, but I think it'll pay off long-term. What I'm most worried about with you all is keeping you around.
+
+---
+
+# 50% of you leave after about 15 years.
+
+---
+
+![](assets/Grumpy_Cat.jpg)
+
+^ This makes me sad.
+
+---
+
+# Be determined.
+# Keep on keeping on.
+# Do what you love.
+
+^ If that's something else, awesome. But I'm going to be damned if anybody drives you off from something you love.
