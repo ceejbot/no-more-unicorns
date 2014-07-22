@@ -172,8 +172,10 @@ http://www.ngcproject.org/statistics
 
 ![original, left](assets/percent-bachelors-degrees-women-usa.png)
 
-Source: @randal_olson
-http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/
+# Percentage of degrees going to women
+## by field, 1970-2010
+
+Source: [@randal_olson](http://www.randalolson.com/2014/06/14/percentage-of-bachelors-degrees-conferred-to-women-by-major-1970-2012/)
 
 ---
 
@@ -197,3 +199,11 @@ A lot worse.
 
 Source:
 http://fivethirtyeight.blogs.nytimes.com/2013/06/25/as-more-attend-college-majors-become-more-career-focused/
+
+---
+
+![](assets/increasing_conf_diversity.mov)
+
+---
+
+http://bit.ly/1zYY2SB

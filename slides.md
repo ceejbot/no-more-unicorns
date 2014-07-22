@@ -68,7 +68,13 @@ Brave man.
 
 ![original](assets/can-o-crickets.jpg)
 
-^ Nothing happened. After that panel I did some thinking about women in node, women in software, women around me. I decided I was going to have to put up or shut up myself.
+^ Nothing happened. Okay. Now what?
+
+---
+
+# [fit] Let's figure this out.
+
+^ So I did some thinking about women in node, women in software, women around me. I decided I was going to have to put up or shut up myself.
 
 ---
 
@@ -82,7 +88,7 @@ Brave man.
 # [fit] stubborn &
 # [fit] oblivious
 
-^ I'm stubborn and oblivious. My friend Laura Lemay described her success as being due to these two awesome traits, and I think mine is also. They're awesome!
+^ Laura Lemay's phrase; totally awesome traits
 
 ---
 
@@ -152,17 +158,15 @@ Brave man.
 
 ---
 
-# [fit] my resolution:
-# [fit] 2014 is the year
-# [fit] I help other women.
+![filtered](assets/UnivacOperatorConsole.jpg)
 
-^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could.
+# the future!
+## uh...
 
----
+^ Friends, I thought the future would be better than the past. We like to praise ourselves for inventing the future & being on the forefront of this & that. So why are we so regressive? Why is Google's engineering staff 17% women if it's so forward-thinking?
 
-# [fit] What about you?
 
-^ That's me. That's my decision. What does this have to do with you? Yes you, oh guy programmer sitting in the audience. (I don't have to tell the women in the audience what this has to do with them. I already have their attention.) Painful truth time.
+It's worse than it was, though. What does this have to do with you? Yes you, oh person in the audience. I am talking to you. Painful truth time.
 
 ---
 
@@ -170,7 +174,23 @@ Brave man.
 # [fit] is what your
 # [fit] values are
 
-^ How you talk tells me nothing but what you think you should be, or how you think you should look to other people. How you act tells me what you want.
+^ How you talk tells me nothing but what you think you should be, or how you think you should look to other people. How you act tells me what you value, really and truly.
+
+---
+
+# [fit] RIP Mortimer Snerd
+# [fit] He only worked on
+# [fit] easy problems
+
+^ But it's hard! You tell me. I know! But nobody's going to give you credit for doing easy things.
+
+---
+
+# [fit] Do you truly value
+# [fit] diversity
+# [fit] in our profession?
+
+^ Look at what you've done. If you are a hiring manager, put your hand up.  I'm talking to you now.
 
 ---
 
@@ -184,9 +204,51 @@ Brave man.
 
 ---
 
-# Turns out it's easier than you fear
+![](assets/Golden_tabby_and_white_kitten_n03.jpg)
+
+^ Stop. Adorable kitten. Remember that I love you, and I that I know this feels hard, and that you're wondering how to juggle your responsibilities with your values.
 
 ---
+
+## [fit] This is the npm team.
+## [fit] @izs acted on his values.
+
+^ My challenge paid off a couple months later. And guess what: he got a kick-ass team.
+
+---
+
+# [fit] It's easier than you fear
+
+^ The first thing you have to do is *try*. Remember: you're going to be determined & empathetic. Now we're going to talk about how.
+
+---
+
+# [fit] Congruence:
+
+# [fit] harmony & agreement
+# [fit] all signals aligning
+
+^ Give examples: yes/no + yes/yes.
+
+---
+
+> We are not a typical early stage startup. We believe that working sensible hours and taking care of ourselves and our loved ones is the best way to ensure long-term productivity. We care deeply about making tech a more inclusive and diverse place.
+
+-- yes, please apply
+
+^ How to signal congruently that you want to hire diversely.
+
+---
+
+> We're terrible at work-life balance. Although work is pretty much your life, we do our absolute best to make sure that work is as awesome as possible so you at least enjoy each and every day here.
+
+-- run away! run away!
+
+^ How to signal to women you don't want them.
+
+---
+
+# It's easier than you fear.
 
 
 > [C]reating a conference with reasonable female representation is not actually a hard problem. --Jez Humble
@@ -197,12 +259,11 @@ Brave man.
 
 > There is a lot more work involved to get women to submit to a tech conference. However, the work pays off in spades because the submissions from women (for us) ranked significantly higher on average than men’s submissions.
 
--- http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html
+[Beating the Odds — How We got 25% Women Speakers for JSConf EU 2012](http://2012.jsconf.eu/2012/09/17/beating-the-odds-how-we-got-25-percent-women-speakers.html)
+
+^ Still need help?
 
 ---
-
-
-
 If you don't want women in tech, I don't want you in tech. If you're part of the problem here, on purpose, I want you out.
 
 We like to praise ourselves for inventing the future & being on the forefront of this & that. So why are we so regressive? Why is Google's engineering staff 17% women if it's so forward-thinking?
@@ -254,15 +315,31 @@ You can learn it. Of course you can do that-- write a file system, write a mobil
 
 
 
+---
 
-# what I can do
+# [fit] my resolution:
+# [fit] 2014 is the year
+# [fit] I help other women.
 
-(pic of icebreaker ship)
+^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could.
+
+
+---
+
+# my new look
+
+![original](assets/IcebreakerYamal-nucler.jpg)
+
+^ That's an icebreaker ship smashing its way through arctic ice. That's a great job for an oblivious stubborn person, I think. That's what I pledge to be for you.
+
+---
 
 # or like, maybe
 
 (icebreaker ship with unicorn horn)
 
+---
 
+# [fit] What about you?
 
-Summarize, wrap up, end on a high note.
+^ That's me. That's my decision.
