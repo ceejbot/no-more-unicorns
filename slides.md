@@ -83,7 +83,7 @@ Brave man.
 # [fit] should recruit
 # [fit] women.
 
-^ So I went on a mini-rant about how if you wanted to see women in open source, you had to stop wringing your hands about it. They aren't volunteering themselves and you probably aren't going to fix the social reasons why they aren't. If node wants women involved, it's going to have to recruit them. The leadership, the Node Core team, is going to have to recruit minorities. Put up or shut up.
+^ Women aren't volunteering themselves for node involvement and you probably aren't going to fix the social reasons why they aren't. If node wants women involved, it's going to have to recruit them. The leadership, the Node Core team, is going to have to recruit minorities. Put up or shut up.
 
 ---
 
