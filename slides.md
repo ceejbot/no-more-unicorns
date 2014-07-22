@@ -251,7 +251,7 @@ Brave man.
 
 -- yes, please apply
 
-^ Signal in your job listings that want it.
+^ Signal in your job listings that this matters to you. Women & minorities tend to be conservative about job moves: they avoid situations that look like they'll be hell. Empathy here!
 
 ---
 
