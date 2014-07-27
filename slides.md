@@ -2,13 +2,6 @@
 # [fit] unicorns
 
 ---
-# [fit] C J Silverio
-## [fit] devops at npmjs.com
-## [fit] @ceejbot
-
-^ It's lovely to see you all again from up here. I've had a transformative experience since I saw you last. I'm here to talk about that. Transformative experiences are always fun, aren't they? Here's the source of mine.
-
----
 
 ![original, fit](assets/libuv_gendered_pronoun.png)
 
@@ -47,7 +40,29 @@
 # the future!
 ## uh...
 
-^ Friends, I thought the future would be better than the past. We like to praise ourselves for inventing the future & being on the forefront of this & that. So why are we so regressive? Why is Google's engineering staff 17% women if it's so forward-thinking? (Career)
+^ Friends, I thought the future would be better than the past. We like to praise ourselves for inventing the future & being on the forefront of this & that.
+
+---
+
+![filtered](assets/edsac99.36-1367858015.jpg)
+
+# Google: 17%
+# Yahoo: 15%
+# Facebook: 15%
+# Twitter: 10%
+
+^ The reality is that our industry is regressive.
+
+---
+
+![](assets/DM_IBM_S360.jpg)
+
+---
+
+# [fit] 56% leave
+# [fit] by mid-career
+
+^ [source](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0)
 
 ---
 
@@ -75,7 +90,7 @@ Late invitation because there were few women on the schedule.
 @dshaw gave me a mic.
 Brave man.
 
-^ Last year I was on a panel at Node Summit talking about the node community. I was a last-minute invitation, prompted because the organizer had received some pressure about having no women on his agenda.
+^ This was just after the pronoun nonsense, so I was grumpy.
 
 ---
 
@@ -109,13 +124,11 @@ Brave man.
 # [fit] stubborn &
 # [fit] oblivious
 
-^ Laura Lemay's phrase; totally awesome traits
+^ Laura Lemay's phrase; totally awesome traits. Let me show you them in action.
 
 ---
 
 # [fit] "Girls don't program computers!"
-
-^ Let's try out stubborn & oblivious, shall we?
 
 ---
 
@@ -297,9 +310,30 @@ Brave man.
 
 ---
 
-![original](assets/space1999-jumpsuit-future.jpg)
+![fit](assets/hourlykitten_renee_mcgurk.jpg)
 
-^ The future! now with 100% more jumpsuits. maybe not the future-- this isn't good enough. Node project itself is still
+^ First, another kitten. Breathe! Kitten! I love you. Really, I do. I married one of you. Also, you've been my colleages for the last 25 years.
+
+
+---
+
+# Hooray for the bare minimum
+# required to be a decent human being.
+
+---
+
+![](assets/251-kitten_sleeping_under_the_computer.jpg)
+
+# node core
+
+^ Maybe I should lay off them, because they seem to be having trouble doing the basics like releasing node, but there's never a good time.
+
+---
+
+![](assets/lioness_fangs.jpg)
+
+^ Women! No kittens for you. I'm not worried about soothing you. Worried about losing you from the profession.
+
 
 ---
 
@@ -320,11 +354,10 @@ Brave man.
 
 ---
 
-# or maybe
+# Determined & empathetic
 
-![original](assets/IcebreakerYamal-unicorn.jpg)
+![](assets/IcebreakerYamal-nucler.jpg)
 
-^ I'll wear that horn because face it, that ice breaker looks extra-fierce.
 
 ---
 
@@ -332,3 +365,10 @@ Brave man.
 # What about you?
 
 ^ That's me. That's my decision.
+
+---
+# [fit] C J Silverio
+## [fit] devops at npmjs.com
+## [fit] @ceejbot
+
+^ Thanks.
