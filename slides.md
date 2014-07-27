@@ -215,7 +215,7 @@ Brave man.
 
 ---
 
-# [fit] How can I tell?
+# [fit] Hiring managers!
 
 ^ If you are a hiring manager, put your hand up.  I'm talking to you now. Why am I a unicorn?
 
@@ -227,7 +227,7 @@ Brave man.
 ## [fit] it's because you
 ## [fit] didn't try.
 
-^ It doesn't matter what your values are. You didn't act on them.
+^ I'm pretty sure this team didn't value diversity, not really.
 
 ---
 
@@ -241,22 +241,14 @@ Brave man.
 
 ![](assets/Golden_tabby_and_white_kitten_n03.jpg)
 
-^ Stop. Adorable kitten. Remember that I love you, and I that I know this feels hard, and that you're wondering how to juggle your responsibilities with your values. You can do it, though.
+^ Stop. Adorable kitten. Remember that I love you, and I that I know this feels hard, and that you're wondering how to juggle your responsibilities with your values. You can do it.
 
 ---
 
+# [fit] be determined
 # [fit] It's easier than you fear
 
 ^ The first thing you have to do is *try*. Remember: you're going to be determined & empathetic. Now we're going to talk about how.
-
----
-
-# [fit] Congruence:
-
-# [fit] harmony & agreement
-# [fit] all signals aligning
-
-^ Give examples: yes/no + yes/yes.
 
 ---
 
@@ -273,7 +265,7 @@ Brave man.
 # Step two:
 ## enlist your existing employees to help.
 
-^ Get all the women who are in your company now to interview every candidate. This is an amazing weeder: it signals to your women candidates that they'll be safe, and it drives off the asshats who would have trouble working with women.
+^ Get all the women who are in your company now to interview every candidate. Weeder: tells women they're safe, drives off jerks who would have trouble working with women.
 
 ---
 
@@ -310,29 +302,78 @@ Brave man.
 
 ---
 
-![fit](assets/hourlykitten_renee_mcgurk.jpg)
+# [fit] Okay, guys.
+# [fit] Your turn.
 
-^ First, another kitten. Breathe! Kitten! I love you. Really, I do. I married one of you. Also, you've been my colleages for the last 25 years.
-
+^ Men! Wave at me. I'm talking to you now.
 
 ---
 
-# Hooray for the bare minimum
-# required to be a decent human being.
+![fit](assets/hourlykitten_renee_mcgurk.jpg)
+
+^ First, another kitten. Breathe! Kitten! I love you. Really, I do. I married one of you. Also, you've been my colleages for the last 25 years. You're not jerks.
+
+---
+
+# [fit] let's move beyond
+# [fit] not being horrible
+
+^ Bare minimum for being a decent human being. Let's do better.
+
+---
+
+# [fit] empathetic:
+# [fit] Your women colleagues
+# [fit] have a harder time than you know.
+
+^ I fully expect to get grief for this talk. Trolling me is trolling a buzzsaw. Can you imagine yourself giving this talk & getting grief?
+
+---
+
+# [fit] The standard you walk past
+# [fit] is the standard
+# [fit] you accept.
+
+^ Lieutenant General David Morrison. What are you walking past?
+
+---
+
+# [fit] Determined:
+# [fit] stop bad behavior
+# [fit] when you see it
+
+^ This is going to suck from time to time. Yes, you're losing something.
+
+---
+
+# [fit] your turn, node core.
+
+^ Maybe I should lay off them, because they seem to be having trouble doing the basics like releasing node, but there's never a good time.
 
 ---
 
 ![](assets/251-kitten_sleeping_under_the_computer.jpg)
 
-# node core
+^ Kitten.
 
-^ Maybe I should lay off them, because they seem to be having trouble doing the basics like releasing node, but there's never a good time.
+---
+
+# Hey! Why are there zero women
+# working on node core?
+
+^ That's all.
 
 ---
 
 ![](assets/lioness_fangs.jpg)
 
 ^ Women! No kittens for you. I'm not worried about soothing you. Worried about losing you from the profession.
+
+---
+
+# Programming is a great profession.
+
+^ If half of you leave by mid-career, it's no wonder I'm a unicorn. But I love writing software. Do you like it? Is this a good career? Great pay. Good benefits.
 
 
 ---
