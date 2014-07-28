@@ -3,78 +3,15 @@
 
 ---
 
-![left](assets/bumper2_nasa_big.jpg)
+![original, fit](assets/libuv_gendered_pronoun.png)
 
-# [fit] C J Silverio
-## [fit] devops at npmjs.com
-## [fit] @ceejbot
-
----
-
-# [fit] I'm going to tell you a
-# [fit] story
-
----
-
-![](assets/edsac99.36-1367858015.jpg)
-
-
-^ My father was a programmer when I was a kid. Janitor at GE. Saw they were hiring programmers. You take a test, you're hired. He spent the weekend studying. Took the test. Got the job.
-
----
-
-![](assets/DM_IBM_S360.jpg)
-
-^ Years later he was a manager hiring programmers for Honeywell. He had an aptitude test he used to give him, a standardized thing. He gave it to me one day. I was around 13 or so. Awesome test. Way fun. Highest score he'd ever seen.
-
----
-
-![](assets/Sun3_60_Disk_Tape.jpg)
-
-^ Fast forward a few more years: I'm in college. I'm a math major: loved me those patterns. I minor in CS. I get the math degree & go on to grad school. Turns out grad school wasn't for me.
-
-----
-
-![](assets/powerseries-1201-front.jpg)
-
-^ So I drop out & get a job. Do I become a programmer like my father? Nope. I become a techwriter. Programming is for people who majored in it. I don't know C. I can't possibly be good enough like those people.
-
----
-
-![](assets/ceejbot-github-profile.png)
-
-^ I got over that. Took me a few years & a manager willing to take a flier on me, but I jumped over to the profession that was waiting for me for all those years. I like it. One of these years I might be good at it.
-
----
-
-# [fit] I have an awesome career
-# [fit] working on some
-# [fit] great projects.
-
----
-
-![150%](assets/node-js-logo.png)
-
-^ I get into node & it gets even better. I'm leading a little team building web services in node, getting to design the whole thing. Groovy. Then one day this happens.
-
----
-
-![fit](assets/libuv_gendered_pronoun.png)
-
-^ libuv gendered pronouns in doc; no-brainer if you're a writer, but apparently controversial to node core.
+^ If you were paying attention to node, you remember this fight. For anybody with any experience in technical writing, it's a no-brainer. Correct style demands not dragging gender in where it doesn't need to be. But for the node core team, it was a big deal.
 
 ---
 
 ![](assets/white_knight.png)
 
-^ The discussion was the usual toxic mess, particularly after that YCombinator chat site got involved. The right thing happened in the end, but why was it an incident at all?
-
----
-
-# [fit] why is my community telling me
-# [fit] I don't belong?
-
-^ This call is coming from inside the house. My house.
+^ The discussion was the usual toxic mess, particularly after Hacker News got involved.
 
 ---
 
@@ -94,52 +31,7 @@
 # [fit] What didn't I see?
 # [fit] Women.
 
-^ No women on node core, of course. 11% of open source developers are women. Look, this isn't what I expected.
-
----
-
-![](assets/math-cs-eng-degrees-arrows.png)
-
-^ I'm on that math line, which has stayed pretty flat below 50% of the total degrees. Look at the CS line: it peaked *before* I graduated.
-
----
-
-# [fit] Pipeline problem?
-
----
-
-![filtered](assets/edsac99.36-1367858015.jpg)
-
-## [fit] Google: 17%
-## [fit] 1998: 27%
-
----
-
-![filtered](assets/edsac99.36-1367858015.jpg)
-
-## [fit] Yahoo: 15%
-## [fit] 1994: 28.5%
-
----
-
-![filtered](assets/edsac99.36-1367858015.jpg)
-
-## [fit] Facebook: 15%
-## [fit] 2004: 22.2%
-
----
-
-![filtered](assets/edsac99.36-1367858015.jpg)
-
-## [fit] Twitter: 10%
-## [fit] 2006: 18.6%
-
-^ Pipeline problem? I call that a "not trying" problem.
-
----
-
-# [fit] our industry is
-# [fit] regressive.
+^ No women on node core, of course. 11% of open source developers are women.
 
 ---
 
@@ -149,6 +41,28 @@
 ## uh...
 
 ^ Friends, I thought the future would be better than the past. We like to praise ourselves for inventing the future & being on the forefront of this & that.
+
+---
+
+![filtered](assets/edsac99.36-1367858015.jpg)
+
+# Google: 17%
+# Yahoo: 15%
+# Facebook: 15%
+# Twitter: 10%
+
+^ The reality is that our industry is regressive.
+
+---
+
+![](assets/DM_IBM_S360.jpg)
+
+---
+
+# [fit] 56% leave
+# [fit] by mid-career
+
+^  [source](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0)
 
 ---
 
@@ -176,7 +90,7 @@ Late invitation because there were few women on the schedule.
 @dshaw gave me a mic.
 Brave man.
 
-^ Plus the conf organizer "didn't know any women in node" so Raquel Velez had to give him a list. This was just after the pronoun nonsense, so I was grumpy.
+^ This was just after the pronoun nonsense, so I was grumpy. Plus the conf organizer "didn't know any women in node" so Raquel Velez had to give him a list.
 
 ---
 
@@ -232,7 +146,6 @@ Brave man.
 ^ See? Totally awesome! End result is I write software!
 
 ---
-
 
 # [fit] Not actually a good idea.
 
@@ -356,32 +269,19 @@ Brave man.
 
 ---
 
-# [fit] Step three:
-## [fit] hire somebody
-### [fit] who doesn't look like
-### [fit] everybody else
+# Step three:
+## hire somebody
+### who doesn't look like everybody else
 
 ^ This is where you need to be determined. I'm going to ask you to do something that feels risky if you've been making conservative, safe, boring choices, the same choices you've been making all along. But this is where you show the world that this issue matters to you.
 
 ---
 
-# [fit] But Ceej, I can't do that.
-# [fit] I can only hire the best.
+# A terrible secret about our culture:
+## men over-state
+## women under-state
 
-^ Your interview process is probably horrible.
-
----
-
-# [fit] Hire people for who they'll become,
-# [fit] not for what they are now.
-
----
-
-# [fit] A terrible secret about our culture:
-## [fit]men over-state
-## [fit]women under-state
-
-^ (remind about my story.) You can't fix that part of the culture overnight, but you *can* teach yourself to remember it when you're evaluating candidates.
+^ (Talk about the 2 cultures here.) You can't fix that part of the culture overnight, but you *can* teach yourself to remember it when you're evaluating candidates.
 
 ---
 
@@ -426,7 +326,7 @@ Brave man.
 # [fit] Your women colleagues
 # [fit] have a harder time than you know.
 
-^ I fully expect to get grief for this talk. I know it's not you, but it's somebody near you. Somebody who might tip you off.
+^ I fully expect to get grief for this talk. Trolling me is trolling a buzzsaw. Can you imagine yourself giving this talk & getting grief?
 
 ---
 
@@ -442,11 +342,26 @@ Brave man.
 # [fit] stop bad behavior
 # [fit] when you see it
 
-^ This is going to suck from time to time. This is what you can do that I can't do. I need your help.
+^ This is going to suck from time to time. Yes, you're losing something.
 
 ---
 
-# [fit] my fellow women
+# [fit] your turn, node core.
+
+^ Maybe I should lay off them, because they seem to be having trouble doing the basics like releasing node, but there's never a good time.
+
+---
+
+![](assets/251-kitten_sleeping_under_the_computer.jpg)
+
+^ Kitten.
+
+---
+
+# Hey! Why are there zero women
+# working on node core?
+
+^ That's all.
 
 ---
 
@@ -456,17 +371,9 @@ Brave man.
 
 ---
 
-# [fit] 56% leave
-# [fit] by mid-career
+# Programming is a great profession.
 
-^ If half of you leave by mid-career, it's no wonder I'm a unicorn.
-
----
-
-# [fit] Programming is
-# [fit] a great career.
-
-^ I love writing software. Do you like it? Is this a good career? Great pay. Good benefits. A way to stay middle-class in this new gilded age.
+^ If half of you leave by mid-career, it's no wonder I'm a unicorn. But I love writing software. Do you like it? Is this a good career? Great pay. Good benefits.
 
 ---
 
@@ -482,3 +389,32 @@ Brave man.
 # [fit] I help other women.
 
 ^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could. I'm pushing 50. I don't want to be here in 2024 watching Google congratulate itself for hitting 20% women.
+
+---
+
+# my new look
+
+![original](assets/IcebreakerYamal-nucler.jpg)
+
+^ That's an icebreaker ship smashing its way through arctic ice. That's a great job for an oblivious stubborn person, I think. That's what I pledge to be for you.
+
+---
+
+# Determined & empathetic
+
+![](assets/IcebreakerYamal-nucler.jpg)
+
+
+---
+
+![](assets/Three_Icebreakers_1.jpg)
+# What about you?
+
+^ That's me. That's my decision.
+
+---
+# [fit] C J Silverio
+## [fit] devops at npmjs.com
+## [fit] @ceejbot
+
+^ Thanks.
