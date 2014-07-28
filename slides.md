@@ -481,4 +481,26 @@ Brave man.
 # [fit] 2014 is the year
 # [fit] I help other women.
 
-^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could. I'm pushing 50. I don't want to be here in 2024 watching Google congratulate itself for hitting 20% women.
+^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could. I'm pushing 50. I don't want to be here in 2024 watching Twitter congratulate itself for hitting 12% women.
+
+---
+
+# my new look
+
+![original](assets/IcebreakerYamal-nucler.jpg)
+
+^ That's an icebreaker ship smashing its way through arctic ice. That's a great job for an oblivious stubborn person, I think. That's what I pledge to be for you.
+
+---
+
+# Determined & empathetic
+
+![](assets/IcebreakerYamal-nucler.jpg)
+
+
+---
+
+![](assets/Three_Icebreakers_1.jpg)
+# What about you?
+
+^ That's me. That's my decision.
