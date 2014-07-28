@@ -62,7 +62,7 @@
 # [fit] 56% leave
 # [fit] by mid-career
 
-^ [source](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0)
+^  [source](http://www.nytimes.com/2014/04/06/technology/technologys-man-problem.html?_r=0)
 
 ---
 
@@ -70,7 +70,7 @@
 
 # [fit] Yay. I'm a unicorn.
 
-^ I'm a middle-aged woman who is a software engineer who contributes to open-source projects. Wow, that image doesn't fit me. Let's try this.
+^ Middle-aged woman who writes software, plays online games, works on OSS stuff: yes, I am a mythical creature. I do not exist.
 
 ---
 
@@ -78,7 +78,7 @@
 
 # [fit] More like this.
 
-^ That's more like it. Frankly, I don't like being a unicorn. Let me tell you a little story about how much I don't like it.
+^ That's more like it. Frankly, I don't like being a unicorn. Let me tell you another way I don't exist.
 
 ---
 
@@ -90,7 +90,7 @@ Late invitation because there were few women on the schedule.
 @dshaw gave me a mic.
 Brave man.
 
-^ This was just after the pronoun nonsense, so I was grumpy.
+^ This was just after the pronoun nonsense, so I was grumpy. Plus the conf organizer "didn't know any women in node" so Raquel Velez had to give him a list.
 
 ---
 
@@ -375,6 +375,12 @@ Brave man.
 
 ^ If half of you leave by mid-career, it's no wonder I'm a unicorn. But I love writing software. Do you like it? Is this a good career? Great pay. Good benefits.
 
+---
+
+# Stay determined.
+
+^ Okay if you find something else you love better. I'll be damned if I see any more women driven out.
+
 
 ---
 
@@ -382,8 +388,7 @@ Brave man.
 # [fit] 2014 is the year
 # [fit] I help other women.
 
-^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could.
-
+^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could. I'm pushing 50. I don't want to be here in 2024 watching Google congratulate itself for hitting 20% women.
 
 ---
 
