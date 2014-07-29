@@ -339,7 +339,7 @@ Brave man.
 
 ---
 
-# Step one: say it clearly.
+# Step one: say it clearly
 
 > We are not a typical early stage startup. We believe that working sensible hours and taking care of ourselves and our loved ones is the best way to ensure long-term productivity. We care deeply about making tech a more inclusive and diverse place.
 
@@ -349,8 +349,8 @@ Brave man.
 
 ---
 
-# Step two:
-## enlist your existing employees to help.
+# [fit] Step two:
+## [fit] enlist your team's help
 
 ^ Get all the women who are in your company now to interview every candidate. Weeder: tells women they're safe, drives off jerks who would have trouble working with women.
 
@@ -368,7 +368,7 @@ Brave man.
 # [fit] But Ceej, I can't do that.
 # [fit] I can only hire the best.
 
-^ Your interview process is probably horrible.
+^ Your interview process is probably horrible. People who already are great at the job they're doing right now are people who are going to be bored really soon.
 
 ---
 
@@ -385,9 +385,8 @@ Brave man.
 
 ---
 
-# Hot tip:
-## that candidate is probably
-## undervalued. snag 'em while you can.
+## [fit] hot tip: that candidate is
+## [fit] undervalued
 
 ^ This won't always work out. Hiring doesn't always work out. But hey, you can always console yourself in this Machievellian way that you at least got that candidate cheaply.
 
@@ -422,9 +421,15 @@ Brave man.
 
 ---
 
-# [fit] empathetic:
-# [fit] Your women colleagues
-# [fit] have a harder time than you know.
+# [fit] diversity is a win
+# [fit] for you too
+
+^ I know it looks like you're losing: I'm asking you to welcome your competition. But I keep hearing about a talent shortage.
+
+---
+
+# [fit] I need you to do something
+# [fit] that I can't do.
 
 ^ I fully expect to get grief for this talk. I know it's not you, but it's somebody near you. Somebody who might tip you off.
 
@@ -438,11 +443,10 @@ Brave man.
 
 ---
 
-# [fit] Determined:
 # [fit] stop bad behavior
 # [fit] when you see it
 
-^ This is going to suck from time to time. This is what you can do that I can't do. I need your help.
+^ This is going to suck from time to time. This is what you can do that I can't do. I need your help. Be determined here and stand your ground.
 
 ---
 
@@ -465,12 +469,20 @@ Brave man.
 
 # [fit] You can be great at this.
 
-^ It's work, but being great at anything is always work.
+^ You're worth it. You're good at this already & you can be great. It's work, but being great at anything is always work.
+
+---
+
+# [fit] Apply for that job.
+# [fit] it is so not over your head.
+
+^ John W Campbell  “How dare you reject your story for my magazine?”
 
 ---
 
 # [fit] Stay determined.
-# [fit] \(I need company. Yes, I'm selfish.)
+# [fit] I need company.
+# [fit] \(Yes, I'm selfish.)
 
 ^ I love writing software. Do you like it? Is this a good career? Great pay. Good benefits. A way to stay middle-class in this new gilded age. Okay if you find something else you love better. I'll be damned if I see any more women driven out.
 
@@ -505,4 +517,4 @@ Brave man.
 ![](assets/Three_Icebreakers_1.jpg)
 # What about you?
 
-^ That's me. That's my decision.
+^ That's me. That's my decision. My parting shot: watch out, node core, I'm coming for you.
