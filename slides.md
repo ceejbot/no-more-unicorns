@@ -510,12 +510,6 @@ Brave man.
 
 ---
 
-# Determined & empathetic
-
-![](assets/IcebreakerYamal-nucler.jpg)
-
----
-
 ![](assets/Three_Icebreakers_1.jpg)
 # What about you?
 
