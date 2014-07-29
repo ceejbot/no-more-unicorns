@@ -3,14 +3,6 @@
 
 ---
 
-![left](assets/bumper2_nasa_big.jpg)
-
-# [fit] C J Silverio
-## [fit] devops at npmjs.com
-## [fit] @ceejbot
-
----
-
 # [fit] I'm going to tell you a
 # [fit] story
 
@@ -510,4 +502,12 @@ Brave man.
 ![](assets/Three_Icebreakers_1.jpg)
 # What about you?
 
-^ That's me. That's my decision. My parting shot: watch out, node core, I'm coming for you.
+^ That's me. That's my decision. Are you with me?
+
+---
+
+![left](assets/bumper2_nasa_big.jpg)
+
+# [fit] C J Silverio
+## [fit] devops at npmjs.com
+## [fit] @ceejbot

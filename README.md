@@ -19,6 +19,8 @@ Percentages of degrees granted to women: [Randal Olson's clean data set](http://
 
 [SGI Power Series Crimson](http://www.sgistuff.net/hardware/systems/powerseries.html)
 
+[IFTTT team clone photo](http://blogs-images.forbes.com/eliseackerman/files/2012/09/The-IFTTT-Team.jpg): Forbes.
+
 [Really creepy unicorn image](http://myhoneysplace.com/the-unicorn/)
 
 Many more fine kitten photos in the collection by [@hourlykitten](https://twitter.com/hourlykitten).
