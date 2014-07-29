@@ -25,7 +25,7 @@
 
 ![](assets/DM_IBM_S360.jpg)
 
-^ Years later he was a manager hiring programmers for Honeywell. He had an aptitude test he used to give him, a standardized thing. He gave it to me one day. I was around 13 or so. Awesome test. Way fun. Highest score he'd ever seen.
+^ Years later he was a manager hiring programmers for Honeywell. He had an aptitude test he used to give, a standardized thing. He gave it to me one day. I was around 13 or so. Awesome test. Way fun. Highest score he'd ever seen.
 
 ---
 
@@ -61,13 +61,7 @@
 
 ![fit](assets/libuv_gendered_pronoun.png)
 
-^ libuv gendered pronouns in doc; no-brainer if you're a writer, but apparently controversial to node core.
-
----
-
-![](assets/white_knight.png)
-
-^ The discussion was the usual toxic mess, particularly after that YCombinator chat site got involved. The right thing happened in the end, but why was it an incident at all?
+^ libuv gendered pronouns in doc; no-brainer if you're a writer, but apparently controversial to node core. The discussion was the usual toxic mess, particularly after that YCombinator chat site got involved. The right thing happened in the end, but why was it an incident at all?
 
 ---
 
@@ -141,6 +135,8 @@
 # [fit] our industry is
 # [fit] regressive.
 
+^ And regressing.
+
 ---
 
 ![filtered](assets/UnivacOperatorConsole.jpg)
@@ -156,7 +152,7 @@
 
 # [fit] Yay. I'm a unicorn.
 
-^ Middle-aged woman who writes software, plays online games, works on OSS stuff: yes, I am a mythical creature. I do not exist.
+^ Middle-aged woman who writes software, plays online shooters, works on OSS stuff: yes, I am a mythical creature. I do not exist.
 
 ---
 
@@ -308,7 +304,7 @@ Brave man.
 
 ---
 
-![left, filtered](assets/ifttt_team_photo_cropped.jpg)
+![left](assets/ifttt_team_photo_cropped.jpg)
 
 ## [fit] if your team looks like this
 ## [fit] it's because you
@@ -339,11 +335,10 @@ Brave man.
 
 ---
 
-# Step one: say it clearly
+# [fit] Step one: say it matters
 
-> We are not a typical early stage startup. We believe that working sensible hours and taking care of ourselves and our loved ones is the best way to ensure long-term productivity. We care deeply about making tech a more inclusive and diverse place.
-
--- yes, please apply
+## [fit] “We care deeply about making tech
+## [fit] a more inclusive and diverse place.”
 
 ^ Signal in your job listings that this matters to you. Women & minorities tend to be conservative about job moves: they avoid situations that look like they'll be hell. Empathy here!
 
@@ -368,12 +363,14 @@ Brave man.
 # [fit] But Ceej, I can't do that.
 # [fit] I can only hire the best.
 
-^ Your interview process is probably horrible. People who already are great at the job they're doing right now are people who are going to be bored really soon.
+^ Your interview process sucks. You're systematically excluding people who don't fit your subconscious biases.
 
 ---
 
 # [fit] Hire people for who they'll become,
 # [fit] not for what they are now.
+
+^ People who already are great at the job they're doing right now are people who are going to be bored really soon.
 
 ---
 
@@ -490,10 +487,6 @@ Brave man.
 
 ---
 
-# [fit] I'm here for you.
-
----
-
 # [fit] my resolution:
 # [fit] 2014 is the year
 # [fit] I help other women.
@@ -502,11 +495,15 @@ Brave man.
 
 ---
 
+# [fit] I'm here for you.
+
+---
+
 # my new look
 
 ![original](assets/IcebreakerYamal-nucler.jpg)
 
-^ That's an icebreaker ship smashing its way through arctic ice. That's a great job for an oblivious stubborn person, I think. That's what I pledge to be for you.
+^ That's an icebreaker ship smashing its way through arctic ice. That's a great job for an oblivious stubborn person, I think. That's what I pledge to be for you. I'm going to broaden my view as much as I can.
 
 ---
 
