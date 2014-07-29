@@ -450,13 +450,15 @@ Brave man.
 
 ---
 
-# [fit] my fellow women
+# [fit] my fellow unicorns
+
+^ Women, people who identify as women, anybody who doesn't match the white guy model.
 
 ---
 
 ![](assets/lioness_fangs.jpg)
 
-^ Women! No kittens for you. You get a lion. FIERCE. I'm not worried about soothing you. Worried about losing you from the profession.
+^ No kittens for you. You get a lion. FIERCE. I'm not worried about soothing you. Worried about losing you from the profession.
 
 ---
 
