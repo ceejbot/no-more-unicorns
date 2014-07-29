@@ -452,7 +452,7 @@ Brave man.
 
 ![](assets/lioness_fangs.jpg)
 
-^ Women! No kittens for you. I'm not worried about soothing you. Worried about losing you from the profession.
+^ Women! No kittens for you. You get a lion. FIERCE. I'm not worried about soothing you. Worried about losing you from the profession.
 
 ---
 
@@ -463,17 +463,20 @@ Brave man.
 
 ---
 
-# [fit] Programming is
-# [fit] a great career.
+# [fit] You can be great at this.
 
-^ I love writing software. Do you like it? Is this a good career? Great pay. Good benefits. A way to stay middle-class in this new gilded age.
+^ It's work, but being great at anything is always work.
 
 ---
 
-# Stay determined.
+# [fit] Stay determined.
+# [fit] \(I need company. Yes, I'm selfish.)
 
-^ Okay if you find something else you love better. I'll be damned if I see any more women driven out.
+^ I love writing software. Do you like it? Is this a good career? Great pay. Good benefits. A way to stay middle-class in this new gilded age. Okay if you find something else you love better. I'll be damned if I see any more women driven out.
 
+---
+
+# [fit] I'm here for you.
 
 ---
 
@@ -496,7 +499,6 @@ Brave man.
 # Determined & empathetic
 
 ![](assets/IcebreakerYamal-nucler.jpg)
-
 
 ---
 
