@@ -31,17 +31,20 @@
 
 ^ So I drop out & get a job. Do I become a programmer like my father? Nope. I become a techwriter. Programming is for people who majored in it. I don't know C. I can't possibly be good enough like those people.
 
----
-
-![](assets/ceejbot-github-profile.png)
-
-^ I got over that. Took me a few years & a manager willing to take a flier on me, but I jumped over to the profession that was waiting for me for all those years. I like it. One of these years I might be good at it.
 
 ---
 
 # [fit] I have an awesome career
 # [fit] working on some
 # [fit] great projects.
+
+^ I got over that. Took me a few years & a manager willing to take a flier on me, but I jumped over to the profession that was waiting for me for all those years. I like it. One of these years I might be good at it.
+
+---
+
+![](assets/ceejbot-github-profile.png)
+
+^ Yay! I get to work on open source!
 
 ---
 
