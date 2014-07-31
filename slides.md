@@ -521,3 +521,4 @@ Brave man.
 # [fit] C J Silverio
 ## [fit] devops at npmjs.com
 ## [fit] @ceejbot
+## [fit] github/ceejbot/no-more-unicorns
