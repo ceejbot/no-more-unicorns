@@ -165,11 +165,7 @@
 
 # Community panel at Node Summit 2014
 
-Late invitation because there were few women on the schedule.
-@dshaw gave me a mic.
-Brave man.
-
-^ Plus the conf organizer "didn't know any women in node" so Raquel Velez had to give him a list. This was just after the pronoun nonsense, so I was grumpy.
+^ Late invitation because there were few women on the schedule. @dshaw gave me a mic. Brave man.
 
 ---
 
@@ -222,11 +218,9 @@ Brave man.
 ## [fit] Sorry didn't notice.
 ## [fit] Too busy writing this module.
 
-^ See? Totally awesome! End result is I write software!
+^ See? Totally awesome! End result is I write software! But I'm not going to generalize this to you.
 
 ---
-
-# [fit] Not actually a good idea.
 
 ## [fit] Not everybody wants to be
 ## [fit] that thick-skinned.
@@ -503,7 +497,7 @@ Brave man.
 
 ---
 
-# my new look
+# [fit] my new look
 
 ![original](assets/IcebreakerYamal-nucler.jpg)
 
