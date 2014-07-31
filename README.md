@@ -29,7 +29,7 @@ Many more fine kitten photos in the collection by [@hourlykitten](https://twitte
 
 [Golden Tabby & White Kitten](http://commons.wikimedia.org/wiki/File:Golden_tabby_and_white_kitten_n03.jpg) - © Marie-Lan Nguyen / Wikimedia Commons / CC-BY 2.5
 
-(Lioness with fangs](http://www.goodwp.com/animals/27364-lioness-fangs-mouth-wild-roar.html)
+[Lioness with fangs](http://www.goodwp.com/animals/27364-lioness-fangs-mouth-wild-roar.html)
 
 [Icebreaker Yamal](http://www.pinterest.com/pin/532832199634344029/)
 
