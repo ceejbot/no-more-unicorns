@@ -359,18 +359,20 @@ Brave man.
 # [fit] But Ceej, I can't do that.
 # [fit] I can only hire the best.
 
+^ I have bad news for you.
+
 ---
 
 # [fit] Your hiring process sucks.
 
-^ You're not getting the results you say you want. You're systematically excluding people who don't fit your subconscious biases.
+^ You're not getting the results you say you want. You're systematically excluding people who don't fit your subconscious biases. You probably haven't trained your team how to interview.
 
 ---
 
-# [fit] Hire people for who they'll become,
-# [fit] not for what they are now.
+# [fit] You're not diverse.
+# [fit] You need to be.
 
-^ People who already are great at the job they're doing right now are people who are going to be bored really soon.
+^ If you were paying attention to Kate Hudson's talk, you know this. Your TEAM will be better.
 
 ---
 
