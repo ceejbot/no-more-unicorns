@@ -70,7 +70,7 @@
 # [fit] THIS IS IN MY HOUSE.
 # [fit] My community.
 
-^ My chosen community telling me it will go out of its way to exclude me, using the stupidest means possible.
+^ My chosen community telling me it will go out of its way to exclude me, using the stupidest means possible. At the point, I wake up.
 
 ---
 
@@ -94,6 +94,8 @@
 ---
 
 # [fit] Pipeline problem?
+
+^ numbers: current % women in eng, %age of CS degrees granted to women the year they were founded.
 
 ---
 
@@ -147,7 +149,7 @@
 
 # [fit] Yay. I'm a unicorn.
 
-^ Middle-aged woman who writes software, plays online shooters, works on OSS stuff: yes, I am a mythical creature. I do not exist.
+^ Middle-aged woman who writes software, plays 1st pers shooters, works on OSS stuff: yes, I am a mythical creature. I do not exist.
 
 ---
 
@@ -155,7 +157,7 @@
 
 # [fit] More like this.
 
-^ That's more like it. Frankly, I don't like being a unicorn. Let me tell you another way I don't exist.
+^ I don't like being a unicorn. Let me tell you another way I don't exist.
 
 ---
 
@@ -224,7 +226,6 @@ Brave man.
 
 ---
 
-
 # [fit] Not actually a good idea.
 
 ## [fit] Not everybody wants to be
@@ -270,7 +271,7 @@ Brave man.
 
 ---
 
-# [fit] That's me.
+# [fit] That was my wake up moment.
 # [fit] What about you?
 
 ^ What does this have to do with you? Yes you, oh person in the audience. I am talking to you. Painful truth time.
@@ -305,7 +306,7 @@ Brave man.
 ## [fit] it's because you
 ## [fit] didn't try.
 
-^ I'm pretty sure this team didn't value diversity, not really.
+^ I'm pretty sure this team didn't value diversity, not really. But it's hard! You tell me.
 
 ---
 
@@ -313,7 +314,7 @@ Brave man.
 # [fit] You only worked on
 # [fit] easy problems
 
-^ But it's hard! You tell me. I know! But nobody's going to give you credit for doing easy things.
+^ I know! But nobody's going to give you credit for doing easy things.
 
 ---
 
@@ -358,7 +359,11 @@ Brave man.
 # [fit] But Ceej, I can't do that.
 # [fit] I can only hire the best.
 
-^ Your interview process sucks. You're systematically excluding people who don't fit your subconscious biases.
+---
+
+# [fit] Your hiring process sucks.
+
+^ You're not getting the results you say you want. You're systematically excluding people who don't fit your subconscious biases.
 
 ---
 
@@ -387,7 +392,7 @@ Brave man.
 ![left](assets/npm_team_thoughtful.jpg)
 
 ## [fit] This is the npm team.
-## [fit] @izs acted on his values.
+## [fit] Not perfect, but better.
 
 ^ My challenge paid off a couple months later. Isaac took a risk. And guess what: he got a kick-ass team.
 
@@ -396,7 +401,7 @@ Brave man.
 # [fit] Okay, guys.
 # [fit] Your turn.
 
-^ Men! Wave at me. I'm talking to you now.
+^ Men! Wave at me. I'm talking to you now. Wow, there are a lot of you.
 
 ---
 
@@ -413,17 +418,17 @@ Brave man.
 
 ---
 
-# [fit] diversity is a win
-# [fit] for you too
+# [fit] you're scared of
+# [fit] losing something.
 
-^ I know it looks like you're losing: I'm asking you to welcome your competition. But I keep hearing about a talent shortage.
+^ software going to eat the world; there are enough jobs. More competition for a subset of those jobs.
 
 ---
 
 # [fit] I need you to do something
 # [fit] that I can't do.
 
-^ I fully expect to get grief for this talk. I know it's not you, but it's somebody near you. Somebody who might tip you off.
+^ I fully expect to get grief for this talk. I know it's not you, but it's somebody near you. Somebody who might tip you off. Tech has a harassment problem.
 
 ---
 
@@ -431,7 +436,7 @@ Brave man.
 # [fit] is the standard
 # [fit] you accept.
 
-^ Lieutenant General David Morrison. What are you walking past?
+^ Austrailian Lieutenant General David Morrison. What are you walking past?
 
 ---
 
@@ -450,7 +455,7 @@ Brave man.
 
 ![](assets/lioness_fangs.jpg)
 
-^ No kittens for you. You get a lion. FIERCE. I'm not worried about soothing you. Worried about losing you from the profession.
+^ No kittens for you. You get a lion. I'm not worried about soothing you. Worried about losing you from the profession.
 
 ---
 
@@ -491,6 +496,8 @@ Brave man.
 ---
 
 # [fit] I'm here for you.
+
+^ Need somebody to help you thru your first open-source project? Need somebody yelled at? Need somebody to show up at a node school? I'm here to be somebody who looks like you, doing that thing.
 
 ---
 
