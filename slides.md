@@ -374,7 +374,7 @@
 ## [fit]men over-state
 ## [fit]women under-state
 
-^ (remind about my story.) You can't fix that part of the culture overnight, but you *can* teach yourself to remember it when you're evaluating candidates.
+^ (remind about my story. discomfort telling it now) You can't fix that part of the culture overnight, but you *can* teach yourself to remember it when you're evaluating candidates.
 
 ---
 
@@ -479,7 +479,7 @@
 # [fit] I need company.
 # [fit] \(Yes, I'm selfish.)
 
-^ I love writing software. Do you like it? Is this a good career? Great pay. Good benefits. A way to stay middle-class in this new gilded age. Okay if you find something else you love better. I'll be damned if I see any more women driven out.
+^ I love writing software. Not leaving. Okay if you find something else you love better. I'll be damned if I see any more women driven out.
 
 ---
 
@@ -493,7 +493,7 @@
 
 # [fit] I'm here for you.
 
-^ Need somebody to help you thru your first open-source project? Need somebody yelled at? Need somebody to show up at a node school? I'm here to be somebody who looks like you, doing that thing.
+^ I am no hero. I am happiest sitting in a corner writing code. But what I can be is SOMEBODY WHO LOOKS LIKE YOU.
 
 ---
 
@@ -501,20 +501,18 @@
 
 ![original](assets/IcebreakerYamal-nucler.jpg)
 
-^ That's an icebreaker ship smashing its way through arctic ice. That's a great job for an oblivious stubborn person, I think. That's what I pledge to be for you. I'm going to broaden my view as much as I can.
+^ That's an icebreaker ship smashing its way through arctic ice. That's a great job for an oblivious stubborn person, I think. Don't want to be an unicorn here either.
 
 ---
 
 ![](assets/Three_Icebreakers_1.jpg)
-# What about you?
+# Join me.
 
-^ That's me. That's my decision. Are you with me?
+^ I can't be an ice-breaker for everybody-- there are people who aren't like me who need representation too. I need help. Join me.
 
 ---
 
 ![left](assets/bumper2_nasa_big.jpg)
 
-# [fit] C J Silverio
-## [fit] devops at npmjs.com
 ## [fit] @ceejbot
 ## [fit] github/ceejbot/no-more-unicorns
