@@ -6,6 +6,8 @@
 # [fit] I'm going to tell you a
 # [fit] story
 
+^ About how I became a programmer. First going to tell you how my dad became a programmer.
+
 ---
 
 ![](assets/edsac99.36-1367858015.jpg)
@@ -141,7 +143,7 @@
 # the future!
 ## uh...
 
-^ Friends, I thought the future would be better than the past. We like to praise ourselves for inventing the future & being on the forefront of this & that.
+^ Friends, I thought the future would be better than the past. We praise selves for inventing the future. I expected by this time there'd be more of me. But NO.
 
 ---
 
@@ -218,7 +220,7 @@
 ## [fit] Sorry didn't notice.
 ## [fit] Too busy writing this module.
 
-^ See? Totally awesome! End result is I write software! But I'm not going to generalize this to you.
+^ See? Totally awesome! End result is I write software! But I'm not going to generalize this to you. This doesn't scale.
 
 ---
 
@@ -314,14 +316,14 @@
 
 ![](assets/Golden_tabby_and_white_kitten_n03.jpg)
 
-^ Stop. Adorable kitten. Remember that I love you, and I that I know this feels hard, and that you're wondering how to juggle your responsibilities with your values. You can do it.
+^ Stop. Adorable kitten. I have BEEN you. Remember that I love you, and I that I know this feels hard, and that you're wondering how to juggle your responsibilities with your values.
 
 ---
 
 # [fit] be determined
 # [fit] It's easier than you fear
 
-^ The first thing you have to do is *try*. Remember: you're going to be determined & empathetic. Now we're going to talk about how.
+^ The first thing you have to do is *try*. Remember: you're going to be determined & empathetic. You know how you gain from this. Now we're going to talk about how.
 
 ---
 
@@ -432,7 +434,7 @@
 # [fit] is the standard
 # [fit] you accept.
 
-^ Austrailian Lieutenant General David Morrison. What are you walking past?
+^ Australian Lieutenant General David Morrison. What are you walking past?
 
 ---
 
@@ -487,13 +489,14 @@
 # [fit] 2014 is the year
 # [fit] I help other women.
 
-^ At New Years I made a resolution: I was going to spend time in 2014 helping other women engineers any way I could. I'm pushing 50. I don't want to be here in 2024 watching Twitter congratulate itself for hitting 12% women.
+^ I'm pushing 50. I don't want to be here in 2024 watching Twitter congratulate itself for hitting 12% women.
 
 ---
 
-# [fit] I'm here for you.
+# [fit] If I did it,
+# [fit] you can do it.
 
-^ I am no hero. I am happiest sitting in a corner writing code. But what I can be is SOMEBODY WHO LOOKS LIKE YOU.
+^ I am no hero. I am happiest sitting in a corner writing code. But what I can be is SOMEBODY WHO LOOKS LIKE YOU. I didn't have this.
 
 ---
 
