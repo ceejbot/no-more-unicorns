@@ -1,7 +1,7 @@
 no-more-unicorns
 ================
 
-C J Silverio's talk at CascadiaJS 2014.
+C J Silverio's talk at CascadiaJS 2014. [Watch video of the talk](http://tinyurl.com/noMoreUnicorns) or view the rendered [slide deck](https://speakerdeck.com/ceejbot/no-more-unicorns). 
 
 ## Attributions
 
